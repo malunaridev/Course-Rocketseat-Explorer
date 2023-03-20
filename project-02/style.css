@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(180deg, rgba(227, 255, 248, 0) 82.08%, rgba(227, 255, 248, 0.38) 100%);
+    min-height: 100vh;    
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 55px;
+}
+.page {
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 65px;
+}
+
+main {
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+}
+
+ul {
+    font-family: 'Mulish', sans-serif;
+    list-style: none;
+    display:flex;
+    gap: 48px;
+    margin: 0;
+    padding: 0;    
+}
+
+ul li a {
+    opacity: 0.5;
+}
+
+
+ul li a:hover {
+    font-weight: bold;
+    opacity: 1;
+}
+
+a {
+    color: #1F1534;
+    text-decoration:none;
+}
+
+h1 {
+    width: 60%;
+    font-family: 'Mulish', sans-serif;
+    font-size: 48px;
+    line-height: 56px;
+    color: #1F1534;
+    font-weight: normal;
+}
+
+h1 span {
+    color: #89c5cc;
+    font-weight: bold;
+}
+
+section p {
+    font-size: 14px;
+    line-height: 28px;
+    color: #7d7987;
+    margin: 40px 0;
+}
+
+button {
+    color: white;
+    text-transform:uppercase;
+    font-family: 'Open Sans', sans-serif;
+    background: #69B99D;
+    padding: 15px 32px 15px;
+    border: 0px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #5aa087;
+}
+
+footer {
+    font-size:14px;
+    line-height:28px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+footer a {
+    font-weight:bold;    
+}
+
+#balls {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+@media screen and (max-width: 600px) {
+    main {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    #hero {
+        margin: 0;
+    }
+
+    .page {
+        width: 90%;
+        padding-top: 35px;
+    }
+
+    h1 {
+        font-size: 40px;
+        width: auto;
+    }
+
+    section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    section p {
+        font-size: 19px;
+        line-height: normal;
+        width: 90%;
+
+    }
+
+    button {
+        margin: auto;
+    }
+}
