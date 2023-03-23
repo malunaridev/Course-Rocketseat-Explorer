@@ -1,1 +1,1 @@
-### Soon!
+# Rocketseat Explorer - In Progress!
