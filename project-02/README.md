@@ -10,7 +10,7 @@
 
 # Rocketseat Explorer - Projeto #02
 
-O segundo projeto que construí, também de acordo com as dicas dadas pelo mentor do curso, foi um pouquinho mais desafiador que o primeiro, já entrando em conceitos importantes sobre posicionamento e hover.
+O segundo projeto que construí, também de acordo com as dicas dadas pelo mentor do curso, foi um pouquinho mais desafiador que o primeiro, já entrando em conceitos importantes sobre posicionamento e hover. Ainda assim, sem grandes dificuldades, conseguo concluí-lo com a ajuda do meu conhecimento prévio.
 
 ## O processo
 
@@ -29,7 +29,7 @@ Foi bastante interessante ter este primeiro contato com a organização estrutur
 
 # Rocketseat Explorer - Project #02
 
-The second project I built, also following structions given by the mentor, was a little bit more challenging than the first one, as I was presented to important concepts like positioning and hover.
+The second project I built, also following structions given by the mentor, was a little bit more challenging than the first one, as I was presented to important concepts like positioning and hover. Yet, without difficulties, I could finish it using my cummulated knowledge.
 
 ## My Process
 
