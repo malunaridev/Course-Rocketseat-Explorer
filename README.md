@@ -14,7 +14,7 @@ Rocketsear Explorer is the second-level course, preceded by Rocketseat Discover,
 |         |             |    
 | :-------------:|:-------------:|
 | ![Project 01](assets/Readme-P1.png) | ![Project 02](assets/Readme-P2.png)  |
-| **Project #01:** Simple Landing Page   | **Project #02** Simple Landing Page  
+| **Project #01:** Simple Landing Page   | **Project #02:** Simple Landing Page  
 | **Code:** [📄](https://github.com/malunaridev/Rocketseat-Explorer/tree/master/project-01) \| **Live Preview:** [🌐](https://rocketseat-explorer-01.vercel.app/) | **Code:** [📄](https://github.com/malunaridev/Rocketseat-Explorer/tree/master/project-02) \| **Live Preview:** [🌐](https://rocketseat-explorer-02.vercel.app/) 
 
 <br />
