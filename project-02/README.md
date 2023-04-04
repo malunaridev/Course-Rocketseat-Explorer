@@ -1,52 +1,40 @@
-![](./images/mockup.png)
+![A pretty README header](assets/Readme-Header.png)
+<br />
+<br />
 
-### Links
+|         |               
+| :-------------:|
+| ![Project 02](assets/Readme-P2.png)  |
+| **Project #02:** Simple Landing Page   | 
+| **Original Project:** [🌐](https://www.figma.com/file/7d4pktWzEybtrlWkYam4D4/Explorer---Projeto-02-(Copy)?node-id=1%3A5&t=JZjAU0kbBnHsI6HP-0) / **My Code:** [📄](https://github.com/malunaridev/Rocketseat-Explorer/tree/master/project-02) / **Live Preview:** [🌐](https://rocketseat-explorer-02.vercel.app/)  
 
-- Original project: [Figma](https://www.figma.com/file/7d4pktWzEybtrlWkYam4D4/Explorer---Projeto-02-(Copy)?node-id=1%3A5&t=JZjAU0kbBnHsI6HP-0)
-- Live Site URL: [URL](https://rocketseat-explorer-02.vercel.app/)
+<br />
+<br />
 
----
-:brazil:
+![Introduction](assets/Readme-Introduction.png)
 
-# Rocketseat Explorer - Projeto #02
+The second project that I have built, also following orientations given by the mentor, was a little bit more challenging than the first one, as I was presented to important concepts like positioning.
 
-O segundo projeto que construí, também de acordo com as dicas dadas pelo mentor do curso, foi um pouquinho mais desafiador que o primeiro, já entrando em conceitos importantes sobre posicionamento e hover. Ainda assim, sem grandes dificuldades, conseguo concluí-lo com a ajuda do meu conhecimento prévio.
+<br />
+<br />
+<br />
 
-## O processo
-
-### Construído com
-
-- HTML
-- CSS
-
-
-### O que aprendi
-
-Foi bastante interessante ter este primeiro contato com a organização estrutural de uma página, na forma mais simples possível, utilizando o `display:flex`. 
-
----
-:earth_americas:
-
-# Rocketseat Explorer - Project #02
-
-The second project I built, also following structions given by the mentor, was a little bit more challenging than the first one, as I was presented to important concepts like positioning and hover. Yet, without difficulties, I could finish it using my cummulated knowledge.
-
-## My Process
-
-### Built with
+![Built with](assets/Readme-Built-with.png)
 
 - HTML
 - CSS
 
+<br />
+<br />
+<br />
 
-### What I learned
+![Built with](assets/Readme-What-I-have-learned.png)
 
-It was really interesting to have this first contac with the page structure, in it's most simple form, using `display:flex`. 
+It was really interesting to have this first contact with the page structure, in it's most simple form, using `display:flex`. 
 
-## Author
+<br />
+<br />
+<br />
 
-- GitHub - [MalunariDev](https://github.com/malunaridev)
-- CodePen - [MalunariDev](https://codepen.io/MalunariDev)
-- Linkedin - [MalunariDev](https://www.linkedin.com/in/malunaridev/)
 
-![](./images/Footer.png)
+![A pretty README footer](assets/Readme-Footer.png)
